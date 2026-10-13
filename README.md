@@ -95,7 +95,7 @@ If you have Git installed, run:
 
 ```bash
 git clone YOUR_REPOSITORY_URL
-cd Khata-Desk
+cd Smart-Desk
 ```
 
 Then open the project folder in VS Code and launch `index.html`.
@@ -107,7 +107,7 @@ Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
 The main entry point is `index.html`. A typical structure for this project could look like this:
 
 ```text
-Khata-Desk/
+Smart-Desk/
 ├── index.html
 ├── style.css
 ├── script.js
